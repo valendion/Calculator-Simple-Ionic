@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CalSimp</string>
+    <string name="title_activity_main">CalSimp</string>
+    <string name="package_name">com.dion.calSimp</string>
+    <string name="custom_url_scheme">com.dion.calSimp</string>
+</resources>
